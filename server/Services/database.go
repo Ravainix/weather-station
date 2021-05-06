@@ -1,7 +1,7 @@
 package Services
 
 import (
-	"github.com/ravainix/tempstation/Core/Models"
+	"github.com/ravainix/weatherstation/Core/Models"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )

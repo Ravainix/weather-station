@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ravainix/tempstation/Routes"
-	"github.com/ravainix/tempstation/Services"
+	"github.com/ravainix/weatherstation/Routes"
+	"github.com/ravainix/weatherstation/Services"
 )
 
 var router *gin.Engine

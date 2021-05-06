@@ -1,4 +1,4 @@
-module github.com/ravainix/tempstation
+module github.com/ravainix/weatherstation
 
 go 1.16
 
